@@ -1,0 +1,14 @@
+{
+    "headers": [
+      {
+        "source": "/(.*).br",
+        "headers": [
+          {
+            "key": "Content-Encoding",
+            "value": "br"
+          }
+        ]
+      }
+    ]
+  }
+  
